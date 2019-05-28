@@ -97,7 +97,7 @@ enum KCheck {
 }
 
 //% color="#FF0000" icon="\uf013" block="Calli:bot"
-namespace Callibot {
+namespace callibot_ {
 
     function KInit() {
         if (KInitialized != 1) {
